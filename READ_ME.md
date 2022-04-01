@@ -27,6 +27,7 @@
 
 3. Spin Server and test endpoints
     - run
+      - cd backend/api
       - python main.py
     - get request
       - http://localhost:8080/
